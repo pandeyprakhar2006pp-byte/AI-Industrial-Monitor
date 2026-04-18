@@ -16,7 +16,7 @@ This project monitors energy, temperature, and waste using AI-based logic.
 - NumPy
 
 ## Demo Video
-[Paste your video link here]
+https://drive.google.com/file/d/1X7iavOpZAeWayhAHCTv-DROsgaWsw1qi/view?usp=drivesdk
 
 ## Future Scope
 - Integration with IoT sensors
